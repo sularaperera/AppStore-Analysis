@@ -1,4 +1,4 @@
-# Unlocking the Power of App Store Data
+<img src=https://github.com/sularaperera/AppStore-Analysis-SQL/blob/main/images/banner.png></img>
 
 ## Table of Contents
   - Introduction
