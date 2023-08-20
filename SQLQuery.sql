@@ -102,7 +102,7 @@ ORDER BY [Maximum Price] DESC
 
 
 
--- determince whether paid apps have higher ratings than free apps
+-- determine whether paid apps have higher ratings than free apps
 SELECT 
 	AppType, 
 	AVG([user_rating]) AS Avg_Rating
