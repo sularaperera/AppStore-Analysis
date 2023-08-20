@@ -27,7 +27,7 @@ Once the data is loaded into the database, you can perform various analyses to u
 
 ![image](https://github.com/sularaperera/AppStore-Analysis-SQL/assets/7954206/911d2f51-0c64-47ae-926e-8924bf7bbe5f)
 
-![image](https://github.com/sularaperera/AppStore-Analysis-SQL/assets/7954206/422558e5-dc00-4e3c-adaa-e9919a4aacfc)
+![image](https://github.com/sularaperera/AppStore-Analysis-SQL/assets/7954206/485a890e-c97a-458a-a9b5-d7ec1f713028)
 
 
 ## 5. Conclusion
