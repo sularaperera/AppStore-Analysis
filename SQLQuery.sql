@@ -108,7 +108,7 @@ SELECT
 	AVG([user_rating]) AS Avg_Rating
 FROM (
     SELECT CASE
-				WHEN [price] > 0 THEN 'Paid'
+		WHEN [price] > 0 THEN 'Paid'
                 ELSE 'Free'
            END AS AppType,
            [user_rating]
@@ -176,7 +176,7 @@ SELECT
 	[track_name],
 	[user_rating]
 FROM (
-	SELECT	[prime_genre],
+	SELECT		[prime_genre],
 			[track_name],
 			[user_rating],
 			RANK() OVER(PARTITION BY [prime_genre] ORDER BY [user_rating] DESC,[rating_count_tot] DESC) AS rank
